@@ -82,7 +82,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Jean Delmotte"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
@@ -90,7 +90,7 @@ mobile = "+33"
 email = "Jean.Delmotte@Broinformatics.fr"
 location = "Lyon, France"
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| &copy; 2021 Jean Delmotte. Powered by [Themefisher](https://themefisher.com/hugo-themes/) |"
 
   # Preloader
   [params.preloader]

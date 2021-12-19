@@ -7,15 +7,15 @@ draft: false
 image: "images/featured-post/post-1.jpg"
 
 # meta description
-description: "this is meta description"
+description: "First post"
 
 # taxonomies
 categories:
-  - "Android And Gaming"
+  - "Bioinformatics"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
+  - "Bioinformatics"
+  - "Genomics"
+  - "pangenomics"
   - "Python"
   - "New"
 

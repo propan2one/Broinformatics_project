@@ -1,5 +1,5 @@
 ---
-title: "Post 1 Working in bioinformatics"
+title: "Post 1: Working in bioinformatics"
 date: 2021-12-19T16:59:07+06:00
 draft: false
 

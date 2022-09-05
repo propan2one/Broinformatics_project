@@ -1,6 +1,6 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2021-12-18T10:07:47+06:00
+title: "Post 2: Getting started with single cell RNAseq"
+date: 2022-09-05T10:07:47+06:00
 draft: false
 
 # post thumb
@@ -11,13 +11,14 @@ description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "HTML & CSS"
+  - "Single Cell"
+  - "Bioinformatics"
+  - "Single Cell RNAseq"
+  - "Transcriptomics"
+  - "R"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "Bioinformatics"
+  - "Single Cell RNAseq"
 
 # post type
 type: "featured"
